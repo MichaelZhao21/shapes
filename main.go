@@ -10,9 +10,9 @@ import (
 	"github.com/hajimehoshi/ebiten/v2/audio/mp3"
 	"github.com/hajimehoshi/ebiten/v2/audio/wav"
 	"github.com/hajimehoshi/ebiten/v2/inpututil"
-	"github.com/michaelzhao21/paws/data"
-	"github.com/michaelzhao21/paws/game"
-	"github.com/michaelzhao21/paws/graphics"
+	"github.com/michaelzhao21/shapes/data"
+	"github.com/michaelzhao21/shapes/game"
+	"github.com/michaelzhao21/shapes/graphics"
 )
 
 var (

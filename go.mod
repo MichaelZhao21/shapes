@@ -1,4 +1,4 @@
-module github.com/michaelzhao21/paws
+module github.com/michaelzhao21/shapes
 
 go 1.20
 
